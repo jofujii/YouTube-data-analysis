@@ -1,2 +1,8 @@
 # YouTube-data-analysis
-My YouTube contents analysis 
+YouTube Channel Data Analysis Portfolio: Driving Content Strategy with Tableau
+## 1\. Project Overview
+
+## 2\. Live Dashboard Access
+You can interact with the live dashboard and explore the data directly via the link below.
+[Open on Tableau Public]
+([https://public.tableau.com/views/YoutubePerfomanceAnalysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
