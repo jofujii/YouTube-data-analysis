@@ -1,6 +1,7 @@
-YouTube Channel Data Analysis Portfolio: Driving Content Strategy with Tableau
+#YouTube Channel Data Analysis Portfolio: Driving Content Strategy with Tableau
 
-1. Project Overview
+
+## 1. Project Overview
 
 This project showcases data analysis and business intelligence skills by leveraging personal YouTube channel data to identify key performance indicators (KPIs), expose bottlenecks in the content conversion funnel, and develop actionable strategies for audience growth and retention.
 
@@ -14,7 +15,9 @@ Analysis & Visualization: Tableau Public
 
 Reporting: Markdown
 
-2. Live Dashboard Access
+
+## 2. Live Dashboard Access
+
 
 You can interact with the live dashboard and explore the data directly via the link below.
 [Open on Tableau Public]
@@ -23,7 +26,9 @@ You can interact with the live dashboard and explore the data directly via the l
 <br> <!-- Add a line break for spacing -->
 ![Dashboard Preview](DASHBOARD_PREVIEW.png)  <!-- This tag displays the image -->
 
-3. Core Findings & Strategic Insights
+
+## 3. Core Findings & Strategic Insights
+
 
 The Tableau dashboard allowed for the formulation of a strict evaluation criteria: Views (Quantity) must be supported by High Retention (Quality).
 
