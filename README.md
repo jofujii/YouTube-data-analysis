@@ -1,5 +1,5 @@
 # YouTube Channel Data Analysis 
-<u>Driving Content Strategy with Tableau</u>
+> Driving Content Strategy with Tableau
 
 ## 1. Project Overview
 
