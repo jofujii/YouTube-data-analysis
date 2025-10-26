@@ -1,5 +1,4 @@
-#YouTube Channel Data Analysis Portfolio: Driving Content Strategy with Tableau
-
+# YouTube Channel Data Analysis Portfolio Driving Content Strategy with Tableau
 
 ## 1. Project Overview
 
